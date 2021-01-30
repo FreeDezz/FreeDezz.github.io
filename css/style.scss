@@ -1,18 +1,17 @@
-$back: '#005be4';
-$blue: '#007dea';
-$button_color: '#0996ee';
+$back: #005be4;
+$blue: #007dea;
+$button_color: #0996ee;
 $basic-font: "Play, Arial";
 html{
   height: 100vh;
 }
 
 body {
-  background-color: #111;
+  background-color: #005be4;
   padding: 0;
   margin: 0;
   overflow: hidden;
   height: 100%;
-
   * {
     box-sizing: border-box;
   }
