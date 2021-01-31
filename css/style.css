@@ -39,7 +39,7 @@ main {
   margin-right: 40px;
 }
 .text-content h1 {
-  font-family: "Play, Arial";
+  font-family: Play, Arial;
   font-size: 60px !important;
   font-weight: 800;
   color: white;
@@ -53,7 +53,7 @@ main {
 }
 
 .btn {
-  font-family: "Play, Arial";
+  font-family: Play, Arial;
   font-size: 17.82px;
   font-weight: 800;
   color: white;
